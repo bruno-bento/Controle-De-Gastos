@@ -1,11 +1,9 @@
-# Controle De Gastos
-Aplicação para controle de gastos usando MVC e Entity Framework
+# Spend Control
+Application to control expenses using MVC and Entity Framework
 
-## Configurações para executar a Aplicação
-Para que a aplicação funcione basta seguir os seguintes passos:  
+## Settings to run the Application
+For the application to work just follow the following steps:  
 
-1.Deletar o arquivo "Gastos.mdf"  
+1.Delete the "Gastos.mdf" file 
 
-2.Ir no *Solution Explorer*, clicar com o botão direito nele e selecionar *Add > New item*, feito isso, selecione a opção *Service-based Database* e renomei para Gastos.
-
-Realizando estas duas etapas, a aplicação funcionará perfeitamente.
+2.Go to * Solution Explorer *, right-click on it and select * Add> New item *, done that, select the option * Service-based Database * and rename it to Expenses.
